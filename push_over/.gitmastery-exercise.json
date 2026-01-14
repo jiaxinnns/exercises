@@ -1,0 +1,18 @@
+{
+  "exercise_name": "push-over",
+  "tags": [
+    "git-remote",
+    "git-commit",
+    "git-push"
+  ],
+  "requires_git": true,
+  "requires_github": true,
+  "base_files": {},
+  "exercise_repo": {
+    "repo_name": "push-this",
+    "repo_title": "push-over",
+    "repo_type": "remote",
+    "init": null,
+    "create_fork": true
+  }
+}

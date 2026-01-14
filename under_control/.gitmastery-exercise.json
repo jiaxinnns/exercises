@@ -1,0 +1,16 @@
+{
+  "exercise_name": "under-control",
+  "tags": [
+    "git-init"
+  ],
+  "requires_git": false,
+  "requires_github": false,
+  "base_files": {},
+  "exercise_repo": {
+    "repo_type": "local",
+    "repo_name": "control-me",
+    "init": false,
+    "create_fork": null,
+    "repo_title": null
+  }
+}

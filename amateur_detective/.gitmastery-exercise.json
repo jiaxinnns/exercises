@@ -1,0 +1,18 @@
+{
+  "exercise_name": "amateur-detective",
+  "tags": [
+    "git-status"
+  ],
+  "requires_git": true,
+  "requires_github": false,
+  "base_files": {
+    "answers.txt": "answers.txt"
+  },
+  "exercise_repo": {
+    "repo_type": "local",
+    "repo_name": "crime-scene",
+    "repo_title": null,
+    "create_fork": null,
+    "init": true
+  }
+}

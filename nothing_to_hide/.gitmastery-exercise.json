@@ -1,0 +1,18 @@
+{
+  "exercise_name": "nothing-to-hide",
+  "tags": [
+    "git-status"
+  ],
+  "requires_git": true,
+  "requires_github": false,
+  "base_files": {
+    "answers.txt": "answers.txt"
+  },
+  "exercise_repo": {
+    "repo_type": "local",
+    "repo_name": "repo",
+    "init": true,
+    "create_fork": null,
+    "repo_title": null
+  }
+}

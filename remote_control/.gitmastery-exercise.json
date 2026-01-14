@@ -1,0 +1,14 @@
+{
+  "exercise_name": "remote-control",
+  "tags": [],
+  "requires_git": true,
+  "requires_github": true,
+  "base_files": {},
+  "exercise_repo": {
+    "repo_type": "ignore",
+    "repo_name": "ignore-me",
+    "init": true,
+    "create_fork": null,
+    "repo_title": null
+  }
+}

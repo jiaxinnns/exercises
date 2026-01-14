@@ -1,0 +1,17 @@
+{
+  "exercise_name": "grocery-shopping",
+  "tags": [
+    "git-add",
+    "git-commit"
+  ],
+  "requires_git": true,
+  "requires_github": false,
+  "base_files": {},
+  "exercise_repo": {
+    "repo_type": "local",
+    "repo_name": "shopping-list",
+    "init": true,
+    "create_fork": null,
+    "repo_title": null
+  }
+}
