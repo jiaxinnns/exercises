@@ -36,12 +36,14 @@ def replace_sha_in_file(verbose: bool = False):
     assert log_output is not None
 
     commits = log_output.strip().splitlines()
+    print("log output:", commits)
     if not commits or len(commits) < 2:
         print("Not enough commits to choose from.")
         exit(1)
 
     # Exclude the very first commit (the root commit)
     commits_without_root = commits[1:10] + commits[11:]
+    print("commits:", commits_without_root)
 
     # Pick one at random
     import random
