@@ -116,6 +116,22 @@
     }
   },
   {
+    "exercise_name": "glossary-branch-rename",
+    "tags": [
+      "git-push"
+    ],
+    "requires_git": true,
+    "requires_github": true,
+    "base_files": {},
+    "exercise_repo": {
+      "repo_type": "local",
+      "repo_name": "funny-glossary",
+      "repo_title": null,
+      "create_fork": null,
+      "init": false
+    }
+  },
+  {
     "exercise_name": "conflict-mediator",
     "tags": [
       "git-merge",
@@ -374,6 +390,22 @@
     }
   },
   {
+    "exercise_name": "glossary-branch-pull",
+    "tags": [
+      "git-push"
+    ],
+    "requires_git": true,
+    "requires_github": true,
+    "base_files": {},
+    "exercise_repo": {
+      "repo_type": "local",
+      "repo_name": "funny-glossary",
+      "repo_title": null,
+      "create_fork": null,
+      "init": false
+    }
+  },
+  {
     "exercise_name": "push-over",
     "tags": [
       "git-remote",
@@ -389,6 +421,22 @@
       "repo_type": "remote",
       "init": null,
       "create_fork": true
+    }
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "tags": [
+      "git-push"
+    ],
+    "requires_git": true,
+    "requires_github": true,
+    "base_files": {},
+    "exercise_repo": {
+      "repo_type": "local",
+      "repo_name": "funny-glossary",
+      "repo_title": null,
+      "create_fork": null,
+      "init": false
     }
   },
   {
@@ -421,6 +469,22 @@
       "repo_title": "gm-duty-roster",
       "create_fork": false,
       "init": null
+    }
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "tags": [
+      "git-push"
+    ],
+    "requires_git": true,
+    "requires_github": true,
+    "base_files": {},
+    "exercise_repo": {
+      "repo_type": "local",
+      "repo_name": "funny-glossary",
+      "repo_title": null,
+      "create_fork": null,
+      "init": false
     }
   },
   {
